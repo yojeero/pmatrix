@@ -1,4 +1,4 @@
-<video src="view/pmatrix-720.mp4" width=640></video>
+[view/pmatrix-720.mp4](https://github.com/user-attachments/assets/c9206fdb-f37e-48b5-ae47-0b7f564942a9)
 
 ### Powershell Matrix simulator
 
