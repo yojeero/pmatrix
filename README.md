@@ -1,10 +1,11 @@
-<video src="view/pmatrix-720.mp4" width=640></video>
+<!-- <video src="view/pmatrix-720.mp4" width=640></video> -->
+[view/pmatrix-720.mp4](https://github.com/user-attachments/assets/c9206fdb-f37e-48b5-ae47-0b7f564942a9)
 
 ### Powershell Matrix simulator
 
 ### How to Run on Windows 11
 
-1) Download and save [pmatrix.ps1](https://raw.githubusercontent.com/matriex/cmatrix/master/cmatrix.ps1) or just clone this repo using `git clone https://github.com/matriex/cmatrix`
+1) Download and save [pmatrix.ps1](https://github.com/yojeero/pmatrix/main/pmatrix.ps1) or just clone this repo using `git clone https://github.com/yojeero/pmatrix`
 
 2) Right click on file **pmatrix.ps1** - "Run with PowerShell" or **cmatrix.ps1** for classic variant.
 
