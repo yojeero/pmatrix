@@ -5,7 +5,7 @@
 
 ### How to Run on Windows 11
 
-1) Download and save [pmatrix.ps1](https://github.com/yojeero/pmatrix/main/pmatrix.ps1) or just clone this repo using `git clone https://github.com/yojeero/pmatrix`
+1) Download and save [pmatrix.ps1](https://github.com/yojeero/pmatrix/pmatrix.ps1) or just clone this repo using `git clone https://github.com/yojeero/pmatrix`
 
 2) Right click on file **pmatrix.ps1** - "Run with PowerShell" or **cmatrix.ps1** for classic variant.
 
