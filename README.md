@@ -1,5 +1,5 @@
 
-<video src="view/pmatrix.mp4" width=600></video>>
+<video src="view/pmatrix.mp4" width=600></video>
 <!-- [https://github.com/user-attachments/assets/0cd1d273-f355-4688-b95b-aec73f59f4d8](https://github.com/user-attachments/assets/0cd1d273-f355-4688-b95b-aec73f59f4d8) -->
 
 ### Powershell Matrix simulator
