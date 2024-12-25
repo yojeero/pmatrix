@@ -9,7 +9,7 @@
 
 2) Right click on file **pmatrix.ps1** - "Run with PowerShell" or [cmatrix.ps1](https://github.com/yojeero/pmatrix/blob/main/cmatrix.ps1) for classic variant.
 
-<img src="view/view.gif" width=400>
+<img src="view/view.gif" width=600>
 
 3) Enjoy!
 
