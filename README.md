@@ -1,5 +1,5 @@
 
-[pmatrix video](https://github.com/user-attachments/assets/0cd1d273-f355-4688-b95b-aec73f59f4d8){width=600}
+![view/pmatrix.mp4](https://github.com/user-attachments/assets/0cd1d273-f355-4688-b95b-aec73f59f4d8){width=600}
 <!-- [https://github.com/user-attachments/assets/0cd1d273-f355-4688-b95b-aec73f59f4d8](https://github.com/user-attachments/assets/0cd1d273-f355-4688-b95b-aec73f59f4d8) -->
 
 ### Powershell Matrix simulator
