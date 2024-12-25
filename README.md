@@ -1,9 +1,7 @@
 
-<video width=600 src="https://github.com/user-attachments/assets/0cd1d273-f355-4688-b95b-aec73f59f4d8.mp4"></video>
+## Powershell Matrix simulator
 
-<!-- [https://github.com/user-attachments/assets/0cd1d273-f355-4688-b95b-aec73f59f4d8](https://github.com/user-attachments/assets/0cd1d273-f355-4688-b95b-aec73f59f4d8) -->
-
-### Powershell Matrix simulator
+[https://github.com/user-attachments/assets/0cd1d273-f355-4688-b95b-aec73f59f4d8](https://github.com/user-attachments/assets/0cd1d273-f355-4688-b95b-aec73f59f4d8)
 
 ### How to Run on Windows 11
 
